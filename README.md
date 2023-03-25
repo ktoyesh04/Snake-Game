@@ -1,6 +1,9 @@
 # Snake Game
 This is a simple Snake game made using the Turtle module in Python.
 
+The game will automatically save your highest score to a file called data.txt in the same directory as snake.py. 
+If you beat your highest score, it will be updated automatically.
+
 Installation
     1) Clone the repository using git clone.
     2) Install the required modules using pip install -r requirements.txt.
@@ -21,3 +24,5 @@ Future Improvements
 
 Contributing
     Contributions are welcome! Please create a pull request with your changes.
+
+![image](https://user-images.githubusercontent.com/124575344/227722675-179ef085-5526-4ef2-80ef-0a697376eda1.png)
